@@ -6,7 +6,7 @@ Physics grad who likes building AI systems on hardware I can point at.
 
 </div>
 
-By day I'm a research assistant at San Jose State, simulating ultracold atoms and writing the code that keeps the science running. The rest of the time I'm usually messing with local LLMs on the Jetson on my shelf, or teaching the small robot next to it new tricks.
+By day I'm a research assistant at San Jose State, simulating ultracold atoms and writing the code that keeps the science running. The rest of the time I'm usually messing with local LLMs on the Jetson on my desk, or teaching the small robot next to it new tricks.
 
 ## Around here
 
