@@ -15,7 +15,7 @@ By day I'm a research assistant at San Jose State, simulating ultracold atoms an
 | [Sage](https://github.com/zeapsu/Sage) | a local-first knowledge app I built on for over a year, then paused (the docs explain why) |
 | [teach-me](https://github.com/zeapsu/teach-me) | Socratic teaching mode for Claude Code and Codex: it quizzes you instead of answering |
 | [canvas-to-notebooklm](https://github.com/zeapsu/canvas-to-notebooklm) | little CLI that syncs course files into NotebookLM |
-| [ WISER_Optimization_VG ](https://github.com/zeapsu/WISER_Optimization_VG) | QAOA portfolio experiments from a summer quantum program |
+| [WISER_Optimization_VG ](https://github.com/zeapsu/WISER_Optimization_VG) | QAOA portfolio experiments from a summer quantum program |
 | [QEC](https://github.com/zeapsu/QEC) | Shor's code running on real IBM quantum hardware |
 
 Newer stuff (a robot console, a weather-market experiment) lives in private repos while it's half-built. Ask me about it.
